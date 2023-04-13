@@ -1,1 +1,0 @@
-let HelloWorld = 'Hello world'
